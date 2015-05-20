@@ -1,1 +1,1 @@
-Mise en pratique des notions que j'ai acquis dans les deux premières parties du sur Git et Github.
+Mise en pratique des notions que j'ai acquis dans les deux premières parties des cours sur Git et Github.
